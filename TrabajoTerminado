@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Presentación personal:</h2>
+    <p>Me llamo Alan Bruce Parrillo Gutierrez 
+        y tengo 18 años </p>
+    <h3>Sobre mi:</h3>
+    <p>Me gusta escuchar música para poder relajarme y actualmente
+        practico el deporte de la natación</p>
+    <table border="1">
+        <tr>
+            <th>Lenguajes de Programación</th>
+            <th>Experiencia en los lenguajes</th>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>intermedio</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>Intermedio</td>
+        </tr>
+        <tr>
+            <td>Javascipt</td>
+            <td>Basico</td>
+        </tr>
+    </table>
+    <h3>Formación profesional:</h3>
+    <p>Soy un estudiante de TECSUP y me encuentro
+        cursando el tercer ciclo <br> en la carrera de Diseño y
+        desarrollo de software</p>
+    <h3>Idiomas:</h3>
+    <p>- Español </p>
+    <p>- Ingles basico</p>
+</body>
+</html>
